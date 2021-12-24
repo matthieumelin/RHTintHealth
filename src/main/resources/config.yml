@@ -1,0 +1,17 @@
+##################################
+#                                #
+# Configuration for RHTintHealth #
+#                                #
+##################################
+
+messages:
+  prefix: '&8[&9&lRHTintHealth&8]'
+  reload: '%prefix% &7The configuration has been refreshed'
+  no-permission: "%prefix% &cYou don't have the permission for that."
+
+commands:
+  tinthealth:
+    usage:
+      - '/tinthealth'
+      - '/tinthealth reload'
+      - '/tinthealth toggle'

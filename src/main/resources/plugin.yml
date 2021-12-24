@@ -1,0 +1,14 @@
+name: RHTintHealth
+version: 1.0
+api-version: 1.18
+authors: [GeekLegend, X0R3]
+main: eu.raidersheaven.rhtinthealth.RHTintHealth
+permissions:
+  RHTintHealth.*:
+    default: op
+  RHTintHealth.reload:
+    default: op
+  RHTintHealth.toggle:
+    default: false
+  RHTintHealth.fade:
+    default: false
