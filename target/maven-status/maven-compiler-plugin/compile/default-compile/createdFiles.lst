@@ -1,0 +1,15 @@
+eu\raidersheaven\rhtinthealth\commands\TintHealthCommand.class
+eu\raidersheaven\rhtinthealth\listeners\PlayerJoinListener.class
+eu\raidersheaven\rhtinthealth\data\DataPlayer.class
+eu\raidersheaven\rhtinthealth\managers\CommandManager.class
+eu\raidersheaven\rhtinthealth\managers\ListenerManager.class
+eu\raidersheaven\rhtinthealth\config\Config.class
+eu\raidersheaven\rhtinthealth\listeners\EntityDamageListener.class
+eu\raidersheaven\rhtinthealth\managers\ConfigManager.class
+eu\raidersheaven\rhtinthealth\RHTintHealth.class
+eu\raidersheaven\rhtinthealth\utils\HexColor.class
+eu\raidersheaven\rhtinthealth\listeners\PlayerDeathListener.class
+eu\raidersheaven\rhtinthealth\managers\DataPlayerManager.class
+eu\raidersheaven\rhtinthealth\listeners\PlayerQuitListener.class
+eu\raidersheaven\rhtinthealth\managers\WorldManager.class
+eu\raidersheaven\rhtinthealth\config\ConfigPlayers.class

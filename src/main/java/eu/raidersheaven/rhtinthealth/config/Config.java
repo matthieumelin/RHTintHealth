@@ -30,7 +30,7 @@ public abstract class Config {
 
         // Check if data folder exist
         if (!dataFolder.exists()) {
-            dataFolder.mkdir();
+            dataFolder.mkdirs();
         }
 
         // Initialize config file
@@ -63,8 +63,8 @@ public abstract class Config {
      */
     public void save(){
         try {
-            config.load(file);
-        } catch (IOException | InvalidConfigurationException e) {
+            config.save(file);
+        } catch (IOException e) {
             e.printStackTrace();
         }
     }
